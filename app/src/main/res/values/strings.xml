@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="NO_CONNECTION">noconnection</string>
+    <string name="NO_ARTICLES">noarticle</string>
+    <string name="search_key">key</string>
+    <string name="search_default">default</string>
+</resources>
